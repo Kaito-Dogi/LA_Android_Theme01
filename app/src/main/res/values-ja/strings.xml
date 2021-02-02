@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">生か死か</string>
+    <string name="game_clear">生き抜いた！</string>
+    <string name="game_over">無残な死を遂げた...</string>
+    <string name="button">時を進める</string>
+    <string name="button_game_over">時を巻き戻す</string>
+</resources>

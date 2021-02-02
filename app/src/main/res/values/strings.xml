@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dead or Alive</string>
+    <string name="game_clear">GAME CLEAR!</string>
+    <string name="game_over">GAME OVER…</string>
+    <string name="button">TRY</string>
+    <string name="button_game_over">TRY AGAIN</string>
+</resources>
