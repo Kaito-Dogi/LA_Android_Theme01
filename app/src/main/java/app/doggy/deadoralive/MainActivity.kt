@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
 
     //リセット用の数値を用意。
     companion object {
-        const val RESET = -1
+        const val RESET = -2
     }
 
     //画像を用意。
